@@ -16,6 +16,7 @@ public class Examplepull {
      */
     public static void main(String[] args) {
         System.out.println("we are learning pull operation");
+           System.out.println("we are learning pull again"); 
     }
     
 }
